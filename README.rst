@@ -1,16 +1,10 @@
-Imagetagger Keras Demo
-======================
 
-Simple application how to use aiohttp_ for deep learning project with keras_.
-
-**Imagetagger** is API for image recognition, employs mobilenet_ network to
-classify images, but other supported network can be used.
 
 
 Install the app::
 
-    $ git clone https://github.com/jettify/aiohttp-keras-demo.git
-    $ cd aiohttp-keras-demo
+    clone this repo
+    $ cd cloned repo
     $ pip install -r requirements/development.txt
 
 
